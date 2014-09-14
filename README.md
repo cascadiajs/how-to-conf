@@ -97,7 +97,7 @@ You might also consider a $0 "community" tier for companies that cannot afford a
 
 ## CFP
 
-
+Check out the [CascadiaJS 2014 CFP process](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md).
 
 ## Speakers
 
