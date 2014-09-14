@@ -22,7 +22,15 @@ This is everything we know about how to put on CascadiaJS or a conference like i
 
 ## Organizing Team
 
-
+This is the single most important thing that you will do. Here are some principles that we try to follow:
+* Someone **MUST** be in charge. This person is the "curator" of the event. Everyone on the team shares responsibility, but the curator is ultimately accountable for everything that happens.
+* The curator should expect to work 10+ hours/week leading up to the conference.
+* Some keys roles to fill for the rest of the team:
+  * Website
+  * CFP/speakers
+  * Venue/logistics
+  * Tickets/promotion
+  * Sponsors
 
 ## Timeline
 
@@ -40,7 +48,16 @@ You want to begin planning for your conference at least 6 months out. Here is a 
 
 ## Picking a Venue
 
+Your budget will dictate what you can do here. Don't think that you need a fancy venue to have a successful conference. Ulimately your venue simply needs to provide the following things:
+* Seating for your attendees.
+* A/V for your speakers.
+* Good (preferably great) Wi-Fi and bandwidth.
+
 ## Picking a Date
+
+Build a list of every conference that is similar to the one you're trying to organize. Make note of the "heavy hitters" like JSConf, JSConf EU, NodeConf, etc. Make sure you pick a date that conflicts as little as possible. Date conflicts will not only affect your ability to attract attendees but it will also may block potential speakers.
+
+Here's a [crowdsourced list of conferences](https://docs.google.com/spreadsheet/ccc?key=0AjzoXvTKg56mdDdBLXhfbHFwNE1hSlNKZzBCR2hBNUE&usp=drive_web#gid=0) from 2013/2014 that might be helpful. 
 
 ## Format
 
