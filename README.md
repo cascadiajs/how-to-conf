@@ -69,7 +69,7 @@ First, how many attendees do you expect?
 
 ## Dealing with Money
 
-
+Please see the [How-to Conf Spreadsheet](https://docs.google.com/spreadsheets/d/1SuTnbn74Frsb5wqPhXwHjeAH_5i-1h9AIIOH4hbdNs0/edit?usp=sharing).
 
 ## Expenses
 
