@@ -53,6 +53,51 @@ Your budget will dictate what you can do here. Don't think that you need a fancy
 * A/V for your speakers.
 * Good (preferably great) Wi-Fi and bandwidth.
 
+Researching Venues
+1. Pour through all types of sights--places that were used for art events, warehouses, studios, past tech events, conferences. 
+2. Build a list containing details that are relevant to whittling this down.
+3. Build contacts and confirm that the capacity and requirements of the conf are met by an email/phone call.
+4. Go tour!
+
+TEMPLATE TO TOUR:
+Some things to look for:
+1. Broadband: what does their pipe look like?
+2. Wi-Fi: how many connected devices can it support?
+3. Plugs: what's the plug / power strip situation?
+4. Power: do we have to pay any surcharge for above average power usage?
+5. Is there any vendor lock-in regarding internet or WiFi? 
+6. Seating: Can they comfortably accommodate 300 seated individuals with laptops?
+7. What's the line of sight like for the stage area? Any obstructions?
+8. Is the seating elevated/stadium?
+9. Are the chairs comfortable?
+10. A/V: What kind of projector(if provided)
+11. A/V: What kind of screen?
+12. Are there additional monitors/feeds in the event space or in breakout areas?
+13. What about sound / mics? Is there a system already provided on-site?
+14. Who will be running the A/V for us? Is there a vendor lock-in for A/V?
+15. Is there space to chill out?
+16. Is there space for workshops? For casual breakouts?
+17. Where will the sponsors set-up their booths?(if applicable)
+18. Can we choose our own food vendors? 
+19. Is there a fee for going outside of preferred vendors? 
+20. Can we provide alcohol to our attendees?
+21. Are we required to carry insurance for our event?
+22. Is parking provided? Where?
+23. Are we required to provide a security team?
+24. Cost: What is included in the cost? 
+25. What's not included? (set-up, tear-down, A/V, etc)
+26. How much is the deposit? When is it due?
+
+For managing lodging(destination conference):
+1. Is there any on-site event management offered? What does this include? What's the cost?
+2. What is the process for selling rooms? Is this managed by the lodging company or us?
+3. What are the hours for check-in and check-out? Can this budge at all for our event?
+4. How would we manage conference events mixing with others staying at the resort? Will there be friction with non-conf lodgees?
+5. Is WiFi provided in every room at no additional cost?
+
+
+*These questions may seem tedious*, but each one of these can make for a very poor attendee experience and increase expenses for the conference dramatically.
+
 ## Picking a Date
 
 Build a list of every conference that is similar to the one you're trying to organize. Make note of the "heavy hitters" like JSConf, JSConf EU, NodeConf, etc. Make sure you pick a date that conflicts as little as possible. Date conflicts will not only affect your ability to attract attendees but it will also may block potential speakers.
