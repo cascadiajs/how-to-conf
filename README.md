@@ -22,15 +22,30 @@ This is everything we know about how to put on CascadiaJS or a conference like i
 
 ## Organizing Team
 
-This is the single most important thing that you will do. Here are some principles that we try to follow:
-* Someone **MUST** be in charge. This person is the "curator" of the event. Everyone on the team shares responsibility, but the curator is ultimately accountable for everything that happens.
-* The curator should expect to work 10+ hours/week leading up to the conference.
-* Some keys roles to fill for the rest of the team:
-  * Website
-  * CFP/speakers
-  * Venue/logistics
-  * Tickets/promotion
-  * Sponsors
+Building the team is the single most important thing that you will do. We have found it useful to break the roles down into 3 main types. 
+
+### The Curator
+
+We believe that in order to maximize the success of an event that someone **MUST** be in charge. This person is the "curator" of the event and is ultimately accountable for everything that happens. The curator is often the same person who is financially on the hook for the event.
+
+**Time commitment:** Roughly 2-5 hours/week when the conference is 4+ months away and ramps up to 10 hours/week leading up to the conference. The week before the conference is essentially full-time (40+ hours).
+
+### Organizers
+
+Organizers are are responsible for distinct components of the conference, which include but are not limited to:
+    * Website
+    * CFP/speakers
+    * Venue/logistics
+    * Tickets/promotion
+    * Sponsors
+
+**Time commitment:** for organizers can vary by the responsibility, but 50% of the time commitment of the curator is a good proxy.
+
+### Volunteers
+
+And finally, vounteers make up the life blood of the live event. These people assist during the conference itself, including the set-up and tear-down. 
+
+**Time commitment:** Volunteers should expect to work the duration of the conference plus 1 day on either end for set-up and tear-down.
 
 ## Timeline
 
