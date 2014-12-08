@@ -33,11 +33,12 @@ We believe that in order to maximize the success of an event that someone **MUST
 ### Organizers
 
 Organizers are are responsible for distinct components of the conference, which include but are not limited to:
-    * Website
-    * CFP/speakers
-    * Venue/logistics
-    * Tickets/promotion
-    * Sponsors
+
+* Website
+* CFP/speakers
+* Venue/logistics
+* Tickets/promotion
+* Sponsors
 
 **Time commitment:** for organizers can vary by the responsibility, but 50% of the time commitment of the curator is a good proxy.
 
