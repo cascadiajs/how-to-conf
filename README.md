@@ -19,6 +19,7 @@ This is everything we know about how to put on CascadiaJS or a conference like i
 * [Website](#website)
 * [Promotion](#promotion)
 * [Tools](#tools)
+* [Day-Of Event Running](#day-ofevent-running)
 
 ## Organizing Team
 
@@ -117,7 +118,7 @@ For managing lodging(destination conference):
 
 Build a list of every conference that is similar to the one you're trying to organize. Make note of the "heavy hitters" like JSConf, JSConf EU, NodeConf, etc. Make sure you pick a date that conflicts as little as possible. Date conflicts will not only affect your ability to attract attendees but it will also may block potential speakers.
 
-Here's a [crowdsourced list of conferences](https://docs.google.com/spreadsheet/ccc?key=0AjzoXvTKg56mdDdBLXhfbHFwNE1hSlNKZzBCR2hBNUE&usp=drive_web#gid=0) from 2013/2014 that might be helpful. 
+Here's a [crowdsourced list of conferences](https://docs.google.com/spreadsheet/ccc?key=0AjzoXvTKg56mdDdBLXhfbHFwNE1hSlNKZzBCR2hBNUE&usp=drive_web#gid=0) that might be helpful. 
 
 ## Format
 
@@ -131,7 +132,15 @@ First, how many attendees do you expect?
 
 Please see the [How-to Conf Spreadsheet](https://docs.google.com/spreadsheets/d/1SuTnbn74Frsb5wqPhXwHjeAH_5i-1h9AIIOH4hbdNs0/edit?usp=sharing).
 
+This spreadsheet will be your lifeline for keeping everything on track for your conference. Many people don't aim to make money off the conference they are excited to run. Great! Protect the hard work you're doing. If budget isn't top-of-mind, it might very well come out of your own bank account at the end of the run(or leave you saddled with debt). If you can't stay in the black, it's unsustainable. 
+
+Sponsorship dollars alone will funnel through quite a bit of money, even if only to be passed on for venue, food, and logistics. You'll need some sort of entity(hopefully not your own checking account) to operate this conference. You don't need to necessarily start your own LLC. There are foundations and groups in your town that are often willing to help make this happen. 
+
+Taxes are a thing. Someone will need to assist you if you aren't already versed in this. No worries! That's what professionals are for.
+
 ## Expenses
+
+A basic list of expenses you can anticipate are listed in the accompanying [How to Conf master spreadsheet](https://docs.google.com/spreadsheets/d/1SuTnbn74Frsb5wqPhXwHjeAH_5i-1h9AIIOH4hbdNs0/edit?usp=sharing) under 'Expenses'.
 
 ## Ticket Sales
 
@@ -160,7 +169,9 @@ You might also consider a $0 "community" tier for companies that cannot afford a
 Check out the [CascadiaJS 2014 CFP process](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md).
 
 ## Speakers
+Building your most diverse, knowledgable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
 
+It is recommended that budget is allocated for speaker travel and accomodations. This allows for increasing access to conferences for speakers that might not have the luxury of a good paycheck(this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
 
 ## Accomodations
 
@@ -182,4 +193,8 @@ These are tools that we've used:
 * Google Analytics - website analytics.
 * Github - create a [new organization](https://github.com/organizations/new) for your conference.
 * ti.to - ticket sales.
+* the [How to Conf master spreadsheet](https://docs.google.com/spreadsheets/d/1SuTnbn74Frsb5wqPhXwHjeAH_5i-1h9AIIOH4hbdNs0/edit?usp=sharing), of course!
+
+## Day-Of Event Running
+The final game plan of the events you will be running should be laid out in a detailed schedule for all staff/volunteers. Volunteer schedules(see [Tools](#tools) above for this) that make sure volunteers and staff know when/where they need to be leading up to/during the event will help keep things chugging along smoothly. Reviewing this ahead at a staff meeting allows for a playbook to be laid out for everyone involved and will make sure those organizing are confident in making decisions on the fly when problems arise. Keep a cool head, and you'll have a great time along with everyone else already enjoying what you've worked so hard to provide!
 
