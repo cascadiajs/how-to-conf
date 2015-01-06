@@ -20,6 +20,7 @@ This is everything we know about how to put on CascadiaJS or a conference like i
 * [Promotion](#promotion)
 * [Tools](#tools)
 * [Day-Of Event Running](#day-ofevent-running)
+* [Links](#links)
 
 ## Organizing Team
 
@@ -198,3 +199,10 @@ These are tools that we've used:
 ## Day-Of Event Running
 The final game plan of the events you will be running should be laid out in a detailed schedule for all staff/volunteers. Volunteer schedules(see [Tools](#tools) above for this) that make sure volunteers and staff know when/where they need to be leading up to/during the event will help keep things chugging along smoothly. Reviewing this ahead at a staff meeting allows for a playbook to be laid out for everyone involved and will make sure those organizing are confident in making decisions on the fly when problems arise. Keep a cool head, and you'll have a great time along with everyone else already enjoying what you've worked so hard to provide!
 
+## Links
+
+* [A Better Node Community](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5)
+* [I Want to Run a JSConf](http://jsconf.com/i-want-to-run-a-jsconf.html)
+* [CascadiaJS - How to Contribute](https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/CONTRIBUTING.md)
+* [Nodeschool](http://nodeschool.io/)
+* [PPK - Conference Organizer's Handbook](http://www.quirksmode.org/coh/)
