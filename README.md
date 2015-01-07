@@ -184,6 +184,41 @@ It is recommended that budget is allocated for speaker travel and accomodations.
 
 ## Promotion 
 
+Assuming that you start planning your conference 6 months out, here is a timeline for thinking about how to communicate this event both to attendees and potential speakers. The important thing to remember is that everything that you say is a promise. So start small: make few promises and sell tickets at a discount to account for this. This rewards people who "make a bet" on you and your organizers. 
+
+As you lock-down more details, you can increase the scope and specifics of your promise and charge more. A regular cadence of these bits of news will help keep your conference top-of-mind and will help you as you solicit speakers, talk to sponsors and sell tickets. 
+
+Assuming you begin organizing your conference 6 months out, here is a sample timeline for promotion:
+
+**T - 5 months**
+
+Put up a basic website with the following information:
+* Name of event
+* Theme
+* Location
+* Date
+* Link to early bird tickets
+* Link to CFP
+* Link to sponsorship brochure
+
+**T - 4 months**
+
+Close down CFP and review talks. Release next tier of tickets. Start to announce sponsors.
+
+**T - 3 months**
+
+Release next tier of tickets. Continue to announce sponsors. Start announcing speakers.
+
+**T - 2 months**
+
+Release last tier of tickets. Finish announcing sponsors. Continue announcing speakers.
+
+**T - 1 month**
+
+Final announcements, which can include:
+* Last minute sponsors
+* Details about social events and special activities
+* Keynote or special speakers
 
 ## Tools
 
