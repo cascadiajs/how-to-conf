@@ -176,6 +176,13 @@ It is recommended that budget is allocated for speaker travel and accomodations.
 
 ## Accomodations
 
+Assuming your conference isn't a destination event (i.e. far away from where the majority of your attendees live) then accommodations need to be arrange for 3 groups of people:
+
+1. Organizers who are coming in from out of town
+2. Speakers who are coming in from out of town
+3. Attendees who are coming in from out of town
+
+A reasonable-sized hotel (50+ rooms) should be able to handle your needs. Make sure to set aside budget to pay for the hotel stays of groups (1) and (2). Work with the hotel to create a discounted rate for group (3). This rate will probably be for $10-20 off per night and the hotel will likely set a deadline by which the rooms need to be booked before they get released back in to the general pool. Make sure your attendees are clear on what the discount code is and when the deadline is.
 
 ## Staff
 
