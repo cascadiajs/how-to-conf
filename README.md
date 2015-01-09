@@ -15,9 +15,8 @@ This is everything we know about how to put on CascadiaJS or a conference like i
 * [CFP](#cfp)
 * [Speakers](#speakers)
 * [Accomodations](#accommodations)
-* [Staff](#staff)
-* [Website](#website)
 * [Promotion](#promotion)
+* [Website](#website)
 * [Tools](#tools)
 * [Day-Of Event Running](#day-ofevent-running)
 * [Links](#links)
@@ -184,11 +183,6 @@ Assuming your conference isn't a destination event (i.e. far away from where the
 
 A reasonable-sized hotel (50+ rooms) should be able to handle your needs. Make sure to set aside budget to pay for the hotel stays of groups (1) and (2). Work with the hotel to create a discounted rate for group (3). This rate will probably be for $10-20 off per night and the hotel will likely set a deadline by which the rooms need to be booked before they get released back in to the general pool. Make sure your attendees are clear on what the discount code is and when the deadline is.
 
-## Staff
-
-## Website
-
-
 ## Promotion 
 
 Assuming that you start planning your conference 6 months out, here is a timeline for thinking about how to communicate this event both to attendees and potential speakers. The important thing to remember is that everything that you say is a promise. So start small: make few promises and sell tickets at a discount to account for this. This rewards people who "make a bet" on you and your organizers. 
@@ -226,6 +220,19 @@ Final announcements, which can include:
 * Last minute sponsors
 * Details about social events and special activities
 * Keynote or special speakers
+
+## Website
+
+The website (especially for a web development conference) can be a fun opportunity to create something fun that uses some bleeding edge tech. But don't let that keep you from focusing on what really matter: the content. As we noted above, there should be a regular cadence at which you are sharing more and more information about the conference. But at the end of the day (i.e. the week before the event at the latest) your website should include at a minimum:
+
+* Name of conference
+* Location of conference (including name of venue, map and directions)
+* Location of accommodations (including map and directions)
+* Dates
+* Agendas for each day (including registration, meals, talks and evening events)
+* List of speakers (with photo and talk titles)
+* List of sponsors
+* List of organizers (with photo and social handles)
 
 ## Tools
 
