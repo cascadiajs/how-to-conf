@@ -165,6 +165,7 @@ Imagine that your conference budget is $100k. Sponsorships should account for ro
 You might also consider a $0 "community" tier for companies that cannot afford a sponsorship but can contribute in other ways such as labor, services, promotion, etc.
 
 ## CFP
+The call for presentations helps communicate how you build your content and community for the conference. There are many options for submissions to your call that include Github Issues or pull requests, a Google form, or email. These different formats can be chosen for ease-of-execution or minimizing barriers to entry. Past calls have been a hybrid approach--GitHub submission with a template provided to include necessary information. This was for those comfortable with an open source workflow and having their abstract published publicly. To respect privacy and allow encouragement for submitters intimidated by that process, we also created a private email submission. 
 
 Check out the [CascadiaJS 2014 CFP process](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md).
 
