@@ -45,7 +45,7 @@ Organizers are are responsible for distinct components of the conference, which 
 
 ### Volunteers
 
-And finally, vounteers make up the life blood of the live event. These people assist during the conference itself, including the set-up and tear-down. 
+And finally, volunteers make up the life blood of the live event. These people assist during the conference itself, including the set-up and tear-down. 
 
 **Time commitment:** Volunteers should expect to work the duration of the conference plus 1 day on either end for set-up and tear-down.
 
@@ -65,52 +65,52 @@ You want to begin planning for your conference at least 6 months out. Here is a 
 
 ## Picking a Venue
 
-Your budget will dictate what you can do here. Don't think that you need a fancy venue to have a successful conference. Ulimately your venue simply needs to provide the following things:
+Your budget will dictate what you can do here. Don't think that you need a fancy venue to have a successful conference. Ultimately your venue simply needs to provide the following things:
 * Seating for your attendees.
 * A/V for your speakers.
 * Good (preferably great) Wi-Fi and bandwidth.
 
-*Researching Venues*  
-1. Pour through all types of sights--places that were used for art events, warehouses, studios, past tech events, conferences.   
-2. Build a list containing details that are relevant to whittling this down.  
-3. Build contacts and confirm that the capacity and requirements of the conf are met by an email/phone call.  
-4. Go tour!  
+*Researching Venues*
+1. Pour through all types of sites - places that were used for art events, warehouses, studios, past tech events, conferences.
+2. Build a list containing details that are relevant to whittling this down.
+3. Build contacts and confirm that the capacity and requirements of the conf are met by an email/phone call.
+4. Go tour!
 
-*TEMPLATE TO TOUR:*  
-Some things to look for:  
-1. Broadband: what does their pipe look like?  
-2. Wi-Fi: how many connected devices can it support?  
-3. Plugs: what's the plug / power strip situation?    
-4. Power: do we have to pay any surcharge for above average power usage?  
-5. Is there any vendor lock-in regarding internet or WiFi?   
-6. Seating: Can they comfortably accommodate 300 seated individuals with laptops?  
-7. What's the line of sight like for the stage area? Any obstructions?  
-8. Is the seating elevated/stadium?  
-9. Are the chairs comfortable?  
-10. A/V: What kind of projector(if provided)  
-11. A/V: What kind of screen?  
-12. Are there additional monitors/feeds in the event space or in breakout areas?  
-13. What about sound / mics? Is there a system already provided on-site?  
-14. Who will be running the A/V for us? Is there a vendor lock-in for A/V?  
-15. Is there space to chill out?  
-16. Is there space for workshops? For casual breakouts?  
-17. Where will the sponsors set-up their booths?(if applicable)  
-18. Can we choose our own food vendors?   
-19. Is there a fee for going outside of preferred vendors?   
-20. Can we provide alcohol to our attendees?  
-21. Are we required to carry insurance for our event?  
-22. Is parking provided? Where?  
-23. Are we required to provide a security team?  
-24. Cost: What is included in the cost?   
-25. What's not included? (set-up, tear-down, A/V, etc)  
-26. How much is the deposit? When is it due?  
+*TEMPLATE TO TOUR:*
+Some things to look for:
+1. Broadband: what does their pipe look like?
+2. Wi-Fi: how many connected devices can it support?
+3. Plugs: what's the plug / power strip situation? 
+4. Power: do we have to pay any surcharge for above average power usage?
+5. Is there any vendor lock-in regarding internet or WiFi?
+6. Seating: Can they comfortably accommodate 300 seated individuals with laptops?
+7. What's the line of sight like for the stage area? Any obstructions?
+8. Is the seating elevated/stadium?
+9. Are the chairs comfortable?
+10. A/V: What kind of projector(if provided)
+11. A/V: What kind of screen?
+12. Are there additional monitors/feeds in the event space or in breakout areas?
+13. What about sound / mics? Is there a system already provided on-site?
+14. Who will be running the A/V for us? Is there a vendor lock-in for A/V?
+15. Is there space to chill out?
+16. Is there space for workshops? For casual breakouts?
+17. Where will the sponsors set-up their booths? (if applicable)
+18. Can we choose our own food vendors?
+19. Is there a fee for going outside of preferred vendors?
+20. Can we provide alcohol to our attendees?
+21. Are we required to carry insurance for our event?
+22. Is parking provided? Where?
+23. Are we required to provide a security team?
+24. Cost: What is included in the cost?
+25. What's not included? (set-up, tear-down, A/V, etc)
+26. How much is the deposit? When is it due?
 
-For managing lodging(destination conference):  
-1. Is there any on-site event management offered? What does this include? What's the cost?  
-2. What is the process for selling rooms? Is this managed by the lodging company or us?  
-3. What are the hours for check-in and check-out? Can this budge at all for our event?  
-4. How would we manage conference events mixing with others staying at the resort? Will there be friction with non-confers?   
-5. Is WiFi provided in every room at no additional cost?    
+For managing lodging (destination conference):
+1. Is there any on-site event management offered? What does this include? What's the cost?
+2. What is the process for selling rooms? Is this managed by the lodging company or us?
+3. What are the hours for check-in and check-out? Can this budge at all for our event?
+4. How would we manage conference events mixing with others staying at the resort? Will there be friction with non-confers?
+5. Is WiFi provided in every room at no additional cost? 
 
 *These questions may seem tedious*, but each one of these can make for a very poor attendee experience and increase expenses for the conference dramatically.
 
@@ -132,9 +132,9 @@ First, how many attendees do you expect?
 
 Please see the [How-to Conf Spreadsheet](https://docs.google.com/spreadsheets/d/1SuTnbn74Frsb5wqPhXwHjeAH_5i-1h9AIIOH4hbdNs0/edit?usp=sharing).
 
-This spreadsheet will be your lifeline for keeping everything on track for your conference. Many people don't aim to make money off the conference they are excited to run. Great! Protect the hard work you're doing. If budget isn't top-of-mind, it might very well come out of your own bank account at the end of the run(or leave you saddled with debt). If you can't stay in the black, it's unsustainable. 
+This spreadsheet will be your lifeline for keeping everything on track for your conference. Many people don't aim to make money off the conference they are excited to run. Great! Protect the hard work you're doing. If budget isn't top-of-mind, it might very well come out of your own bank account at the end of the run (or leave you saddled with debt). If you can't stay in the black, it's unsustainable. 
 
-Sponsorship dollars alone will funnel through quite a bit of money, even if only to be passed on for venue, food, and logistics. You'll need some sort of entity(hopefully not your own checking account) to operate this conference. You don't need to necessarily start your own LLC. There are foundations and groups in your town that are often willing to help make this happen. 
+Sponsorship dollars alone will funnel through quite a bit of money, even if only to be passed on for venue, food, and logistics. You'll need some sort of entity (hopefully not your own checking account) to operate this conference. You don't need to necessarily start your own LLC. There are foundations and groups in your town that are often willing to help make this happen. 
 
 Taxes are a thing. Someone will need to assist you if you aren't already versed in this. No worries! That's what professionals are for.
 
@@ -170,11 +170,11 @@ The call for presentations helps communicate how you build your content and comm
 Check out the [CascadiaJS 2014 CFP process](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md).
 
 ## Speakers
-Building your most diverse, knowledgable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
+Building your most diverse, knowledgeable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
 
-It is recommended that budget is allocated for speaker travel and accomodations. This allows for increasing access to conferences for speakers that might not have the luxury of a good paycheck(this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
+It is recommended that budget is allocated for speaker travel and accommodations. This allows for increasing access to conferences for speakers that might not have the luxury of a good paycheck(this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
 
-## Accomodations
+## Accommodations
 
 Assuming your conference isn't a destination event (i.e. far away from where the majority of your attendees live) then accommodations need to be arrange for 3 groups of people:
 
