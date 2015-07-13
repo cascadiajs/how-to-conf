@@ -165,14 +165,22 @@ Imagine that your conference budget is $100k. Sponsorships should account for ro
 You might also consider a $0 "community" tier for companies that cannot afford a sponsorship but can contribute in other ways such as labor, services, promotion, etc.
 
 ## CFP
+
 The call for presentations helps communicate how you build your content and community for the conference. There are many options for submissions to your call that include Github Issues or pull requests, a Google form, or email. These different formats can be chosen for ease-of-execution or minimizing barriers to entry. Past calls have been a hybrid approach--GitHub submission with a template provided to include necessary information. This was for those comfortable with an open source workflow and having their abstract published publicly. To respect privacy and allow encouragement for submitters intimidated by that process, we also created a private email submission. 
 
 Check out the [CascadiaJS 2014 CFP process](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/README.md).
 
-## Speakers
-Building your most diverse, knowledgeable community takes work. You want awesome speakers and attendees? Reach out to your local meetups, codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better result you'll see in the community you've built. Reach out to people you see doing awesome work. If you don't know them? It's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say.
+### Outreach
 
-It is recommended that budget is allocated for speaker travel and accommodations. This allows for increasing access to conferences for speakers that might not have the luxury of a good paycheck(this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
+Building your most diverse, knowledgeable community takes work. You want awesome speakers and attendees? Reach out to your local meetups (volunteers as members work best), codeschools, universities, and conferences and share your Call for Speakers. The more inclusive you are in your process to share, the better results you'll see in the community you've built. 
+
+Reach out to people you see doing awesome work. The more specific about the person's work you've noticed the better. Utilize your personal networks if possible, but if you don't know them - it's a compliment you even asked! Better to ask and see a 'no thanks' to the submission process than to not ask and lose the chance at lifting up someone that didn't know you were interested in what they had to say. 
+
+Make it clear that you want underrepresented and first time speakers. Make plans to prepare speakers by pairing them with experienced speakers and arranging practice spaces at local meetups.
+
+## Speakers
+
+It is recommended that budget is allocated for speaker travel and accommodations. This allows for increasing access to conferences for speakers without the luxury of a good paycheck (this is a reality). It's also a treat and a huge appreciation to those who have spent time creating awesome content for the conference.
 
 ## Accommodations
 
