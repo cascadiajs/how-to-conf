@@ -16,6 +16,7 @@ This is everything we know about how to put on CascadiaJS or a conference like i
 * [Speakers](#speakers)
 * [Accomodations](#accommodations)
 * [Promotion](#promotion)
+* [Design](#design)
 * [Website](#website)
 * [Tools](#tools)
 * [Day-Of Event Running](#day-ofevent-running)
@@ -222,9 +223,72 @@ Final announcements, which can include:
 * Details about social events and special activities
 * Keynote or special speakers
 
-## Website
+# Design
 
-The website (especially for a web development conference) can be a fun opportunity to create something fun that uses some bleeding edge tech. But don't let that keep you from focusing on what really matter: the content. As we noted above, there should be a regular cadence at which you are sharing more and more information about the conference. But at the end of the day (i.e. the week before the event at the latest) your website should include at a minimum:
+During the planning for your event, you will have many things that you will need to design. Good design is critical to establishing a cohseiveness to your conference and brand, and can help excite and impress people. Remember, design does not exist just to look pretty; it's more than just pixels. The primary goal of your overall design should be conveying information to your participants in a good manner. 
+
+Having someone who is well versed in graphic design is a huge boon. You will need to get designs for things like:
+
+* Website
+* Apparel (Shirts, Hoodies)
+* Badges
+* Totebags
+* Stickers
+* Physical handouts (maps, flyers, bingo cards)
+* Standing Banners
+* Videos
+
+You will also have some design assets provided to you, such as
+
+* Sponsor logos
+
+## Types of printing
+
+There are a number of different methods that things will be created with, and depending on what method you use there are different constraints to be aware of.
+
+### Silkscreening
+
+Typically used to produce apparel (shirts, hoodies), but can also be used to make other things (totebags). Each individual color that appears in your design adds to the cost of the items, and each location that you need to print can also add to the bottom line. It's best to limit yourself to 1-2 colors and 1-2 print locations.
+
+### Digital Printing
+
+Digital printing is typically used for badges or paper handouts, but can also be used for large format standing banners. It's faster, generally cheaper, and more flexable then silk screening, but it usually doesn't work on fabric. You don't have any restrictions on colors or placements using digital printing.
+
+### Lasers
+
+Sometimes, you'll want to make things that are unusal objects. An example of this is CascadiaJS's wooden badges. They may have irregular shapes, or ones that printers don't typically carry. You can make items in any shape or size, only limited by the size of the laser platform your vendor has. These items can be unique and very impressive, but come at a higher cost. The complexity of your design is directly coorelated to the cost to prodce the item. Vendors can do etching (not cutting all the way through your medium) and staining which can add to the design, but you don't have much flexibility with colors in laser cutting.
+
+### Embroidery
+
+Embroidery is rarely used, but does happen for things like hats that don't take well to silkscreening, or to give something a bit different look. Colors are limited, and vendors are very picky about revisions.
+
+### Die cutting
+
+Should you want to produce something that has a shape that printers don't usually carry, you may need to also have your items die cut. The process is to make 2 shapes out of metal and squish your swag between them. There is usually a cost to setup the die.
+
+## Videos
+
+If you are producing videos of any of your conference, you may be asked to provide various assets to use in the videos. Fortunately, these are fixed size (1920x1080) and vendors prefer pngs.
+
+You may need to provide a title image (think logo), an image of your sponsors, and an image with your speaker's name, talk title, and your logo.
+
+## Picking apparel
+
+Generally, whomever is doing the printing for you (silkscreening, embroidery, etc) will have a list of vendors they work with to provide apparel. They may give you a list of apparel manufacturers to pick from.
+
+## Vector assets
+
+You may be required to print your assets on a variety of materials and mediums, so it's best to make sure all your core assets are available in a vector format. It can be svg, or ai, or eps, but you will beed to put these assets on many things so make sure your assets are flexible. 
+
+## Font Selection
+
+Have caution when picking a font for your conference. You'll want to make sure you get a webfont as well as a ttf or otf format if you are using it on apparel.
+
+While fonts can cost hundreds of dollars, the importance of picking a quality font should not be ignored.
+
+# Website
+
+The website (especially for a web development conference) can be a fun opportunity to create something fun that uses some bleeding edge tech. But don't let that keep you from focusing on what really matter: the content. As we noted above, there should be a regular cadence at which you are sharing more and more information about the conference. But at the end of the day (i.e. the week before the event at the latest) your website should include:
 
 * Name of conference
 * Location of conference (including name of venue, map and directions)
@@ -233,7 +297,39 @@ The website (especially for a web development conference) can be a fun opportuni
 * Agendas for each day (including registration, meals, talks and evening events)
 * List of speakers (with photo and talk titles)
 * List of sponsors
-* List of organizers (with photo and social handles)
+* List of organizers (with photo and contact information)
+* How to purchase tickets
+* Your Code of Conduct
+
+Make sure your website works on phones as well as laptops & desktops--many people at the conference will be using your site.
+
+## Timing
+
+Additionally, as your conference gets closer and closer, the needs of your website audience change. 
+
+If your conference has a Call for Proposals, people will need to know how to submit a talk and why they should think about submitting.
+
+Two to three months before your doors open, people are deciding if they want to attend your conference. They will need to see where your conference is, who is speaking, how to purchase tickets, and potentially who else is going to be there.
+
+Approximately 6-8 weeks before your conference, people will begin to make detailed travel arrangements (if they haven't already). They will need to know how to get to your venue. They will be looking into flights, trains, and travel by car. They will need to what airport to arrive at, and if they need to make connections between that airport and other travel (train, rental car, etc). Depending on where your conference is, you may have a little or a lot of people buying tickets to attend.
+
+In the week or so leading up to your conference, the most important information for participants will be getting to your venue and travel information. Especially if your conference is in a remote location, people will need to know what the address is, and how to get there. A lesser need will be schedule information. Some people like to plan early, and want to figure out what they will be doing. It's unlikely, but possible, at this point that participants will still be buying tickets.
+
+During the conference, the primary focus of the website is your schedule. People need to know what is happening, when, and where. Having a map of your venue on the website can be very helpful.
+
+## Web Team
+
+It's best to have multiple that are contributing to the website, but only one person that is responsible for it overall. You want to make sure that your website is setup so that multiple people can deploy content, whether that be via an online administration tool or other means. Having a staging or test environment for your website is also helpful to preview changes before pushing them to the general public. If you use a stage/test environment, make sure as well that multiple people can deploy to it.
+
+## Organizer Information
+
+Your organizers should have clear headshots on your website - not obscure avatars. Your attendees may need to find you, and knowing what you look like is very important.
+
+## Code of Conduct
+
+If your conference has a Code of Conduct, make sure that it is prominently displayed on your website. This is critical to making people feel comfortable. Also make sure that you detail how to report an issue so that if a problem does arise people know how to bring it to your attention.
+
+
 
 ## Tools
 
